@@ -6,12 +6,12 @@ Laravel version: 10.10
 
 Steps to Set Up:
 1. Clone the Project
-git clone repository_url,
-cd project_directory
+"git clone repository_url",
+"cd project_directory"
 
 2. Install Dependencies
-composer install,
-composer update
+"composer install",
+"composer update"
 
 3. Create a Database
 Create a database for the project.
@@ -19,9 +19,9 @@ Create a database for the project.
 4. Configure .env File
 Create a .env file in the root of the project.
 Fill in the following values in the .env file:
-DB_DATABASE=your_database_name,
-DB_USERNAME=your_username,
-DB_PASSWORD=your_password
+"DB_DATABASE=your_database_name",
+"DB_USERNAME=your_username",
+"DB_PASSWORD=your_password"
 
 5. Generate GitHub Access Token
 Go to GitHub Settings.
